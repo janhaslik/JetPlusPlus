@@ -4,8 +4,6 @@
 
 C++ REST API Framework
 
-Created and developed at Blue SeaBird by: @janhaslik
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
